@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abhijat-M
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning C++, java, python and swift.
+- 🌱 I’m currently learning java and python.
 - 💞️ I’m looking to collaborate on some open source projects
 - 📫 How to reach me: abhijatknight003@gmail.com
 
