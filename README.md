@@ -19,7 +19,7 @@ Here are some of the technologies I work with:
 - **Languages**: Python, JavaScript, C++  
 - **Frameworks & Libraries**: TensorFlow, Keras, Flask, React  
 - **Cloud & DevOps**: Microsoft Azure, Docker, GitHub Actions  
-- **Machine Learning**: NLP, Computer Vision, Deep Learning  
+- **Machine Learning**: NLP, Computer Vision, Deep Learning, LLMs
 - **Tools**: Git, Streamlit, Visual Studio Code  
 
 ---
