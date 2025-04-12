@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a passionate **Software Engineer** and **Mac
 ## **🔧 Tech Stack**
 Here are some of the technologies I work with:  
 
-- **Languages**: Python, JavaScript, C++  
+- **Languages**: Python, Java
 - **Frameworks & Libraries**: TensorFlow, Keras, Flask, React  
 - **Cloud & DevOps**: Microsoft Azure, Docker, GitHub Actions  
 - **Machine Learning**: NLP, Computer Vision, Deep Learning, LLMs
