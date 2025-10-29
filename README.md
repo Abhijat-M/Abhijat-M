@@ -26,7 +26,7 @@ I believe elegant code and thoughtful design can drive lasting impact.
 ### Technical Expertise  
 
 **Languages:** Python · Java  
-**Frameworks:** TensorFlow · Keras · Flask · React  
+**Frameworks:** TensorFlow · Keras · Flask   
 **ML Domains:** NLP · Computer Vision · Deep Learning · LLMs  
 **Cloud & DevOps:** Microsoft Azure · Docker · GitHub Actions  
 **Tooling:** Git · Streamlit · Visual Studio Code  
@@ -64,5 +64,5 @@ I aim to design solutions that are not just efficient, but meaningful — where 
 ---
 
 <p align="center">
-  <sub>© 2025 Abhijat • Crafted with intent and a touch of curiosity.</sub>
+  <sub>© 2025 Abhijat • Crafted with purpose and a touch of curiosity.</sub>
 </p>
