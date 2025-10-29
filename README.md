@@ -1,11 +1,11 @@
-# 👋 Hey, I'm Abhijat  
+# I'm Abhijat  
 
 Welcome to my GitHub!  
 I’m a **Software Engineer** and **Machine Learning Engineer** passionate about transforming ideas into intelligent, impactful, and scalable software. My repositories are where code meets curiosity — exploring the intersections of **AI**, **ML**, and **software engineering**.
 
 ---
 
-## 🌟 About Me  
+## About Me  
 - 🎓 **Currently Exploring:** Advanced concepts in Software Engineering & Machine Learning  
 - 💻 **Contributor:** [GirlScript Summer of Code 2024 – Extended Edition](https://gssoc.girlscript.tech/)  
 - ☁️ **Cloud Focused:** Building with **Microsoft Azure**, **AI/ML**, and **Copilot** tools  
@@ -14,17 +14,17 @@ I’m a **Software Engineer** and **Machine Learning Engineer** passionate about
 
 ---
 
-## 🔧 Tech Stack  
+## Tech Stack  
 
 **Languages:** Python, Java  
-**Frameworks & Libraries:** TensorFlow, Keras, Flask, React  
+**Frameworks & Libraries:** TensorFlow, Keras, Flask 
 **Cloud & DevOps:** Microsoft Azure, Docker, GitHub Actions  
 **Machine Learning:** NLP, Computer Vision, Deep Learning, LLMs  
 **Tools & Environments:** Git, Streamlit, VS Code  
 
 ---
 
-## 💬 Connect With Me  
+## Connect With Me  
 
 I’m always open to collaborations, research discussions, and new ideas.  
 
@@ -33,14 +33,14 @@ I’m always open to collaborations, research discussions, and new ideas.
 
 ---
 
-## 📊 GitHub Insights  
+## GitHub Insights  
 
 ![Abhijat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhijat-M&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhijat-M&layout=compact&theme=radical)  
 
 ---
 
-## ⚡ Quote to Code By  
+## Quote to Code By  
 > *"Empowered by technology, driven by curiosity."*  
 
 Let’s build something extraordinary — one commit at a time. 🚀
